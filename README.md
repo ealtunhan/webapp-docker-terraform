@@ -2,7 +2,7 @@
 
 This project aims to create a web-app with MySQL using Docker and Terraform on AWS. The web-app will be built using a stack of technologies, including Node.js, Express, and MySQL. Docker will be used to containerize the web-app and MySQL server. Terraform will be used to provision the necessary AWS infrastructure resources, including EC2 instances, security groups, and load balancers.
 
-#Goals
+# Goals
 
 The goal of this project is to learn how to deploy a web-app with MySQL using Docker and Terraform on AWS. By completing this project, I hope to:
 
